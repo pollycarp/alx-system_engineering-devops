@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+export BEST="School"
+>>>>>>> 06b0667ed0dbd9f9b0192f65ab2d91614558b246
